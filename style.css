@@ -1,0 +1,42 @@
+*							{
+							margin:0px;
+							padding:0px;
+							}
+
+h1							{
+							text-align:center;
+							background-color:navy;
+							color:white;
+							}
+	
+h2							{
+							padding-top:10px;
+							text-align:center;
+							}
+	
+form						{
+							margin-top:40px;
+							text-align:center;
+							}
+
+input[type="file"]			{
+							display:none;
+							} 
+	
+button						{
+							margin-top:50px;
+							font-size:30px;
+							padding:10px;
+							background-color:blue;
+							color:white;
+							border-radius:25px;
+							width:30%;
+							height:78px;
+							
+							} 
+							
+span						{
+							font-size:14px;
+							color:white;
+							}
+							
