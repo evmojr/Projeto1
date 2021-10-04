@@ -1,0 +1,19 @@
+{
+  "name": "projeto1",
+  "version": "14.7.3",
+  "description": "Conversor de arquivos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evmojr/Projeto1.git"
+  },
+  "author": "Evaldo Moura Junior",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evmojr/Projeto1/issues"
+  },
+  "homepage": "https://github.com/evmojr/Projeto1#readme"
+}
