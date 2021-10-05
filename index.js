@@ -1,6 +1,6 @@
 var http = require('http');
 var fs = require('fs');
-
+const PORT = process.env.PORT || 5000
 
 function  RequestResponse(req, res) {
   	fs.readFile('index.html',  function(err, data) {
@@ -10,5 +10,5 @@ function  RequestResponse(req, res) {
 	});
 }
 
-http.createServer(RequestResponse).listen(8080);
+http.createServer(RequestResponse).listen(PORT);
 
